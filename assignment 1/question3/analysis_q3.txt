@@ -1,0 +1,6 @@
+One observation made was that the class names are being changed periodically by the websites. 
+So, the scraping scripts might become outdated after some amount of time and need
+ to modified in order to work.
+
+The code is taking a lot of minutes to run due to large number of pages and huge list of hotels scraped even for just one country.
+An example output csv can be found in this folder.

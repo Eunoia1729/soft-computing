@@ -1,0 +1,1 @@
+This algorithm worked for not only uniform distributions as input but also for other types of individually independent distributions.

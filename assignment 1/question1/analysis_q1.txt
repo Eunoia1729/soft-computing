@@ -1,0 +1,1 @@
+The sample variance of the age randomly generated was found to be close to the population variance.
